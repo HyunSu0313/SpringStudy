@@ -4,7 +4,7 @@
 
    스프링 JPA를 활용할 수 있는 예제 코드입니다.
 
-3. 참고 
+2. 참고 
 
    [김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵](https://www.inflearn.com/roadmaps/149)
    
